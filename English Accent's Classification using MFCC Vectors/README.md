@@ -1,0 +1,1 @@
+# Aims to develop a highly accurate accent classification using vector matching. The current system shows an accuracy of 100 in identifying Punjabi, Assamese, Telugu, Malyalam, Kashmiri,Kannada, and Bengali regional English accents. This can be highly useful for categorising speakers with better English accents for requiremnts by companies.
